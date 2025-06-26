@@ -1,4 +1,9 @@
-9# AI Login Test Automation (Part 2, Task 2)
+# Part 1 Theory( Charity Muigai)
+This task explores the role of AI in software development, focusing on key concepts such as AI-driven code generation tools, supervised vs. unsupervised learning for automated bug detection, the importance of bias mitigation in user experience personalization, and the impact of AIOps on software deployment efficiency. It highlights how tools like GitHub Copilot accelerate development, compares learning approaches in bug detection, emphasizes ethical considerations in AI personalization, and shows how AIOps enables faster, smarter, and more reliable software releases.
+
+
+
+# AI Login Test Automation (Part 2, Task 2)
 
 This part includes:
 - A Selenium test script for login automation
